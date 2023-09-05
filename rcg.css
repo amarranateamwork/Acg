@@ -1,0 +1,25 @@
+body{
+    display: grid;
+    justify-content: center;
+   transition: 2s;
+}
+.container {
+   margin-top: 200px;
+    background-color: rgb(37, 165, 165);
+    height: 100px;
+    width:200px;
+    display: grid;
+    justify-content: center;
+    border-radius: 20px;
+
+}
+
+#btn {
+    height: fit-content;
+    border-radius: 15px;
+
+}
+
+#phara {
+    padding-left: 40px;
+}
